@@ -30,4 +30,4 @@ Enjoy the game and challenge the AI!
 - AI (Basic Game AI Techniques)
 
 ## Author
-[Your Name]
+Shubit
